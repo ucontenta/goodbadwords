@@ -4,9 +4,9 @@
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "6200x200",
+      "sizes": "200x200",
       "type": "image/png"
-    },
+    }
     
   ],
   "start_url": ".",
