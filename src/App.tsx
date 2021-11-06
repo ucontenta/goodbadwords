@@ -1,6 +1,6 @@
 import { TextField } from '@mui/material';
 import React, { useState } from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import {HashRouter, Route, Routes } from 'react-router-dom';
 
 import './App.css';
 import Home from './Home';
@@ -14,13 +14,13 @@ function App() {
       <header>
         <img src="logo.png" alt="xxx"></img>
       </header>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/result" element={<Result word={word}></Result>}></Route>
           <Route path="/" element={<Home checkWord={(wordFromHome) => setWord(wordFromHome)}></Home>}>
           </Route>
         </Routes>      
-      </BrowserRouter>
+      </HashRouter>
       <footer>
         Made with Love
       </footer>
