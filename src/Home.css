@@ -1,0 +1,10 @@
+header {
+  padding-top: 5vh;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  gap: 3vh;
+}
