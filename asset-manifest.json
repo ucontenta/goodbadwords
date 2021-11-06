@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/goodbadwords/static/css/main.2396c41a.chunk.css",
-    "main.js": "/goodbadwords/static/js/main.ff664fbc.chunk.js",
-    "main.js.map": "/goodbadwords/static/js/main.ff664fbc.chunk.js.map",
+    "main.js": "/goodbadwords/static/js/main.4e42ca28.chunk.js",
+    "main.js.map": "/goodbadwords/static/js/main.4e42ca28.chunk.js.map",
     "runtime-main.js": "/goodbadwords/static/js/runtime-main.1a5316ea.js",
     "runtime-main.js.map": "/goodbadwords/static/js/runtime-main.1a5316ea.js.map",
-    "static/js/2.d01d5eef.chunk.js": "/goodbadwords/static/js/2.d01d5eef.chunk.js",
-    "static/js/2.d01d5eef.chunk.js.map": "/goodbadwords/static/js/2.d01d5eef.chunk.js.map",
+    "static/js/2.1f3bb773.chunk.js": "/goodbadwords/static/js/2.1f3bb773.chunk.js",
+    "static/js/2.1f3bb773.chunk.js.map": "/goodbadwords/static/js/2.1f3bb773.chunk.js.map",
     "static/js/3.cbbe2b2b.chunk.js": "/goodbadwords/static/js/3.cbbe2b2b.chunk.js",
     "static/js/3.cbbe2b2b.chunk.js.map": "/goodbadwords/static/js/3.cbbe2b2b.chunk.js.map",
     "index.html": "/goodbadwords/index.html",
     "service-worker.js": "/goodbadwords/service-worker.js",
     "service-worker.js.map": "/goodbadwords/service-worker.js.map",
     "static/css/main.2396c41a.chunk.css.map": "/goodbadwords/static/css/main.2396c41a.chunk.css.map",
-    "static/js/2.d01d5eef.chunk.js.LICENSE.txt": "/goodbadwords/static/js/2.d01d5eef.chunk.js.LICENSE.txt"
+    "static/js/2.1f3bb773.chunk.js.LICENSE.txt": "/goodbadwords/static/js/2.1f3bb773.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a5316ea.js",
-    "static/js/2.d01d5eef.chunk.js",
+    "static/js/2.1f3bb773.chunk.js",
     "static/css/main.2396c41a.chunk.css",
-    "static/js/main.ff664fbc.chunk.js"
+    "static/js/main.4e42ca28.chunk.js"
   ]
 }
